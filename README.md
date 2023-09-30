@@ -6,7 +6,7 @@
 This tutorial outlines the implementation of  Active Directory within Azure Virtual Machines. by initiating the creation process for the Domain Controller Virtual Machine (VM) utilizing Windows Server 2022, and designate it as 'DC-1.' 
 
 During this setup, take careful note of the Resource Group and Virtual Network (VNet) automatically generated. Subsequently, proceed to create the Client Virtual Machine (VM) running Windows 10, identified as 'Client-1.' It is imperative to utilize the identical Resource Group and Virtual Network that were established previously.
-Furthermore, ensure that both VMs are situated within the same Virtual Network. You can verify the network topology using the Network Watcher tool to confirm the desired configuration."
+Furthermore, ensure that both VMs are situated within the same Virtual Network. You can verify the network topology using the Network Watcher tool to confirm the desired configuration.
  <br />
 
 
